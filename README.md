@@ -2,13 +2,13 @@
 <p>This set of Notebooks provides a complete set of code to be able to train and leverage your own custom object detection model using the Tensorflow Object Detection API.
 <div style="display:flex">
     <h3>Let's Go Through my Demo Process To Detect Anything </h3>
-    <h5>1.) Step Pick The Object --> He is Kope my dog</h5>
+   <b>1.) Step: </b> Pick The Object --> He is Kope my dog
 <img src="https://github.com/orbant12/Object-Detection---Tensorflow/assets/124793231/f057196b-a864-47b9-ad92-f72fb039bf34" style="width:200px" />
 </div>
 
 ---
 
-<b>1.) Step: </b> Capture Images for Training and Testing --> Web Cam Needed ! 
+<b>2.) Step: </b> Capture Images for Training and Testing --> Web Cam Needed ! 
 <h6>· Python Script Generates all Folders Required for Storage --> Tensorflow/workspace/images/collectedimages</h6>
 <pre>
 <img src="https://github.com/orbant12/Object-Detection---Tensorflow/assets/124793231/eb0e73ce-5eb8-4db4-bd7f-93f7e6634708" style="width:600px" />
