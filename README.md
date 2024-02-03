@@ -8,6 +8,7 @@
 
 ---
 
+<h5>2.) Step Capture Images --> Training and Evaluating </h5>
 <img src="https://github.com/orbant12/Object-Detection---Tensorflow/assets/124793231/0a88bdf7-bf03-4883-a4e5-94532b291a49" style="width:800px" />
 
 ---
