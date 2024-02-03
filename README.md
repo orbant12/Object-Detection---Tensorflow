@@ -1,6 +1,6 @@
 # Tensorflow Object Detection Walkthrough
 <b>Note:</b> If you want the model to detect a more `general label` you will need about `100-200` images with different shapes and angles. </br>
-For a `specific object` <span>( Like --> Detect my dog )</span> you will need about `10-20` images with the same object from different angles.
+For a `specific object` <span style="opacity:0.5">( Like --> Detect my dog )</span> you will need about `10-20` images with the same object from different angles.
 <h3>Let's Go Through my Demo Process To Detect Anything </h3>
     
 <b>1.) Step: </b> Pick The Object --> He is Kope my dog
