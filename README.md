@@ -80,7 +80,7 @@ python -m ipykernel install --user --name=od-venv
 </pre>
 If not, resolve installation errors by referring to the <a href="https://github.com/orbant12/Object-Detection---Tensorflow/blob/master/Error%20Guide.md">Error Guide.md</a> in this folder.
 <br /> <br/>
-<b>Final Step. </b> Once you get to step 6. Train the model, inside of the notebook, you may choose to train the model from cmd within the virtual enviroment for live loss metrics.
+<b style="fontStyle:underline">Final Step: </b> Once you get to step 6. Train the model, inside of the notebook, you may choose to train the model from cmd within the virtual enviroment for live loss metrics.
 <br />
 
 ---
