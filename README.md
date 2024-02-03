@@ -9,8 +9,8 @@
 
 ---
 
-<b>2.) Step: </b> Capture Images for Training and Testing --> Web Cam Needed !
-<b>Note:</b> If you want the model to detect a more `general label` you will need about `100-200` images with different shapes and angles. </br>
+<b>2.) Step: </b> Capture Images for Training and Testing --> Web Cam Needed !</br>
+<b>Note:</b></br> If you want the model to detect a more `general label` you will need about `100-200` images with different shapes and angles. </br>
 For a `specific object` <span style="opacity:0.5">( Like --> Detect my dog )</span> you will need about `10-20` images with the same object from different angles.
 <h6>· Python Script Generates all Folders Required for Storage --> Tensorflow/workspace/images/collectedimages</h6>
 <pre>
