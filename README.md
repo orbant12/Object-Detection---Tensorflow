@@ -10,8 +10,10 @@
 ---
 
 <b>2.) Step: </b> Capture Images for Training and Testing --> Web Cam Needed !</br>
-<b>Note:</b></br> If you want the model to detect a more `general label` you will need about `100-200` images with different shapes and angles. </br>
+
+<b>Note:</b> If you want the model to detect a more `general label` you will need about `100-200` images with different shapes and angles. </br>
 For a `specific object` <span style="opacity:0.5">( Like --> Detect my dog )</span> you will need about `10-20` images with the same object from different angles.
+
 <h6>· Python Script Generates all Folders Required for Storage --> Tensorflow/workspace/images/collectedimages</h6>
 <pre>
 <img src="https://github.com/orbant12/Object-Detection---Tensorflow/assets/124793231/eb0e73ce-5eb8-4db4-bd7f-93f7e6634708" style="width:600px" />
