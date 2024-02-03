@@ -8,7 +8,7 @@
 
 ---
 
-<h5>2.) Step Capture Images --> Training and Evaluating </h5>
+<h5>2.) Step Capture Images for Training and Evaluating --> Web Cam Needed !  </h5>
 <img src="https://github.com/orbant12/Object-Detection---Tensorflow/assets/124793231/eb0e73ce-5eb8-4db4-bd7f-93f7e6634708" style="width:600px" />
 
 
