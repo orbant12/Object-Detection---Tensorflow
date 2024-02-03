@@ -18,6 +18,7 @@
 
 ---
 
+
 <b>3.) Step: </b> Label Images --> `xml` file 
 <h6>· Split All Units with 80% to Train Folder - 20% to Test Folder - 1 unit: { Photo + XML } </h6>
 <h6>· Folders Created by Script in [ Tensorflow/workspace/images/test or train]  </h6>
@@ -73,8 +74,10 @@ python -m ipykernel install --user --name=od-venv
 <br/><br/>
 <b>Step 7.</b> Begin training process by opening <a href="https://github.com/orbant12/Object-Detection---Tensorflow/blob/master/2.%20Training%20and%20Detection.ipynb">2. Training and Detection.ipynb</a>, this notebook will walk you through installing Tensorflow Object Detection, making detections, saving and exporting your model. 
 <br /><br/>
-<b>Step 8.</b> During this process the Notebook will install Tensorflow Object Detection. You should ideally receive a notification indicating that the API has installed successfully at Step 8 with the last line stating OK.  
-<img src="https://i.imgur.com/FSQFo16.png">
+<b>Step 8.</b> During this process the Notebook will install Tensorflow Object Detection. You should ideally receive a notification indicating that the API has installed successfully at Step 8 with the last line stating OK.
+<pre>
+<img src="https://github.com/orbant12/Object-Detection---Tensorflow/assets/124793231/ef8c6e2f-00f6-4a09-b302-dabbbcbe1c1d">
+</pre>
 If not, resolve installation errors by referring to the <a href="https://github.com/orbant12/Object-Detection---Tensorflow/blob/master/Error%20Guide.md">Error Guide.md</a> in this folder.
 <br /> <br/>
 <b>Step 9.</b> Once you get to step 6. Train the model, inside of the notebook, you may choose to train the model from within the notebook. I have noticed however that training inside of a separate terminal on a Windows machine you're able to display live loss metrics. 
