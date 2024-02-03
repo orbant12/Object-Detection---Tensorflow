@@ -61,7 +61,6 @@ python -m ipykernel install --user --name=od-venv
 </pre>
 <br/>
 <b>Step 5.</b> Collect images using the Notebook <a href="https://github.com/orbant12/Object-Detection---Tensorflow/blob/master/1.%20Image%20Collection.ipynb">1. Image Collection.ipynb</a> - ensure you change the kernel to the virtual environment as shown below
-
 <br/>
 <b>Step 6.</b> Manually divide collected images into two folders train and test. So now all folders and annotations should be split between the following two folders. <br/>
 <pre>
