@@ -16,6 +16,7 @@
 ---
 
 <h5>3.) Step Label Images --> xml file </h5>
+<h6>Split All Units with 80% for Train Folder - 20% for Test Folder - 1 unit: { Photo + XML } </h6>
 <img src="https://github.com/orbant12/Object-Detection---Tensorflow/assets/124793231/0a88bdf7-bf03-4883-a4e5-94532b291a49" style="width:800px" />
 
 ---
