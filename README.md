@@ -9,7 +9,7 @@
 ---
 
 <b>1.) Step: </b> Capture Images for Training and Testing --> Web Cam Needed ! 
-<h6>Python Script Generates all Folders Required for Storage - [ Tensorflow/workspace/images/collectedimages ] </h6>
+<h6>· Python Script Generates all Folders Required for Storage</h6> - `Tensorflow/workspace/images/collectedimages`
 <pre>
 <img src="https://github.com/orbant12/Object-Detection---Tensorflow/assets/124793231/eb0e73ce-5eb8-4db4-bd7f-93f7e6634708" style="width:600px" />
 </pre>
@@ -17,8 +17,8 @@
 ---
 
 <b>3.) Step: </b> Label Images --> `xml` file 
-<h6>Split All Units with 80% to Train Folder - 20% to Test Folder - 1 unit: { Photo + XML } </h6>
-<h6>Folders Created by Script in [ Tensorflow/workspace/images/test or train]  </h6>
+<h6>· Split All Units with 80% to Train Folder - 20% to Test Folder - 1 unit: { Photo + XML } </h6>
+<h6>· Folders Created by Script in [ Tensorflow/workspace/images/test or train]  </h6>
 <pre>
 <img src="https://github.com/orbant12/Object-Detection---Tensorflow/assets/124793231/0a88bdf7-bf03-4883-a4e5-94532b291a49" style="width:800px" />
 </pre>
