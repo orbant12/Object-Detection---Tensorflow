@@ -1,8 +1,8 @@
 # Tensorflow Object Detection Walkthrough
 <p>This set of Notebooks provides a complete set of code to be able to train and leverage your own custom object detection model using the Tensorflow Object Detection API.
 <div style="display:flex">
+    <h3> He is Kope my dog - Let's Go Through my Simplified Process To Detect Anything </h3>
 <img src="https://github.com/orbant12/Object-Detection---Tensorflow/assets/124793231/f057196b-a864-47b9-ad92-f72fb039bf34" style="width:200px" />
-  <h3> Detect Any Object With This Step-by-Step Process </h3>
 </div>
 
 <img src="https://github.com/orbant12/Object-Detection---Tensorflow/assets/124793231/0a88bdf7-bf03-4883-a4e5-94532b291a49" style="width:800px" />
