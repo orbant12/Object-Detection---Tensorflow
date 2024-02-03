@@ -1,5 +1,5 @@
 # Tensorflow Object Detection Walkthrough
-<p>This set of Notebooks provides a complete set of code to be able to train and leverage your own custom object detection model using the Tensorflow Object Detection API.
+<b>Note:</b> If you want the model to detect a more `general label` you will need about `100-200` images with optimally different type of object and angle within the same label
 
 <h3>Let's Go Through my Demo Process To Detect Anything </h3>
     
