@@ -43,20 +43,20 @@ https://github.com/orbant12/Object-Detection---Tensorflow/assets/124793231/893b1
 <br/><br/>
 <b>Step 2.</b> Create a new virtual environment 
 <pre>
-python -m venv tfod
+python -m venv od-venv
 </pre> 
 <br/>
 <b>Step 3.</b> Activate your virtual environment
 <pre>
 source tfod/bin/activate # Linux
-.\tfod\Scripts\activate # Windows 
+.\od-venv\Scripts\activate # Windows 
 </pre>
 <br/>
 <b>Step 4.</b> Install dependencies and add virtual environment to the Python Kernel
 <pre>
 python -m pip install --upgrade pip
 pip install ipykernel
-python -m ipykernel install --user --name=tfodj
+python -m ipykernel install --user --name=od-venv
 </pre>
 <br/>
 <b>Step 5.</b> Collect images using the Notebook <a href="https://github.com/orbant12/Object-Detection---Tensorflow/blob/master/1.%20Image%20Collection.ipynb">1. Image Collection.ipynb</a> - ensure you change the kernel to the virtual environment as shown below
