@@ -38,7 +38,7 @@ https://github.com/orbant12/Object-Detection---Tensorflow/assets/124793231/893b1
 
 ---
 
-# Steps
+# Setup Steps
 <br />
 <b>Step 1.</b> Clone this repository: https://github.com/orbant12/Object-Detection---Tensorflow.git
 <br/><br/>
