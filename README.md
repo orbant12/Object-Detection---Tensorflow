@@ -2,7 +2,7 @@
 
 <h3>Let's Go Through my Demo Process To Detect Anything </h3>
     
-<b>1.) Step: </b> Pick The Object --> He is Kope my dog
+<b>1.) Step: </b> Pick The Object --> Decite what type is your label `general` or `specific`
 <pre>
     <img src="https://github.com/orbant12/Object-Detection---Tensorflow/assets/124793231/f057196b-a864-47b9-ad92-f72fb039bf34" style="width:200px"  />
 </pre>
