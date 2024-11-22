@@ -15,7 +15,7 @@
 For a `specific object` <span style="opacity:0.5">( Like --> Detect my dog )</span> you will need about `10-20` images with the same object from different angles.
 
 <h6>· Python Script Generates all Folders Required for Storage --> Tensorflow/workspace/images/collectedimages</h6>
-<pre>
+<pre> 
 <img src="https://github.com/orbant12/Object-Detection---Tensorflow/assets/124793231/eb0e73ce-5eb8-4db4-bd7f-93f7e6634708" style="width:600px" />
 </pre>
 
